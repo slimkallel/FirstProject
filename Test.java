@@ -1,1 +1,3 @@
-Class Test
+Class Test {
+....
+}
